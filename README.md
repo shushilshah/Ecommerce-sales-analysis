@@ -28,12 +28,12 @@ In the competitive E-commerce space, personalized marketing is essential. Instea
 
 ## 📊 Dashboard Features
 
-- 📌 Filter by RFM cluster and search CustomerID
-- 📈 View Recency and Monetary distributions
-- 📊 Cluster comparison (bar chart, box plot)
-- 🥧 Pie chart of customer distribution by segment
-- 📅 Time-based purchasing trends
-- ✅ Cluster descriptions and business insights
+- Filter by RFM cluster and search CustomerID
+- View Recency and Monetary distributions
+- Cluster comparison (bar chart, box plot)
+- Pie chart of customer distribution by segment
+- Time-based purchasing trends
+- Cluster descriptions and business insights
 
 ## 💡 Key Insights
 
